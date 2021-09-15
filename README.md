@@ -1,4 +1,4 @@
 # maven-project
 
 Simple Maven Project
-Updated weebhook
+Updated URL in the webhook
